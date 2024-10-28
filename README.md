@@ -26,7 +26,6 @@ I'm excited to explore new technologies, particularly 🐍 Python and Django
 , 🗄️ MySQL
 , 📊 GraphQL
 , and 🚀 Redis
-. I also want to learn the latest data security methods.
 💬 Let's Connect
 
 I'm open to collaborations and discussions about tech! Feel free to reach out!
