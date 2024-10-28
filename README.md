@@ -9,7 +9,6 @@ I'm a sociable second-year student at KPI, passionate about backend development 
     📄 HTML
     📄 CSS
     ⚛️ React
-    🌐 Next.js
 
 🚀 Currently Learning
 
@@ -18,6 +17,7 @@ I'm a sociable second-year student at KPI, passionate about backend development 
     🌍 NGINX
     🚀 NATS
     📈 Git
+    🌐 Next.js
 
 💡 Future Interests
 
