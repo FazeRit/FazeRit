@@ -17,6 +17,7 @@ I'm a sociable second-year student at KPI, passionate about backend development 
     🌍 NGINX
     🚀 NATS
     📈 Git
+    📐 MUI
     🌐 Next.js
 
 💡 Future Interests
