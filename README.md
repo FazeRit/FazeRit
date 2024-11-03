@@ -1,6 +1,6 @@
 👋 Hi there! I'm a Fullstack developer
 
-I'm a sociable second-year student at KPI, passionate about backend development since childhood. I started diving into server architecture in early 2024.
+I'm a sociable second-year student at KPI, passionate about backend development since childhood. I started diving into web in early 2024.
 🌟 Technologies I Know
 
     🟢 Node.js
